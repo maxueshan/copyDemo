@@ -18,4 +18,4 @@ IOS默认全选复制的三种方案
 
 ## 效果图
 
-![image](http://cdn.hudongdong.com/content/uploadfile/201609/8d731473833829.png)
+![image](http://cdn.hudongdong.com/2016-09-14%2014_42_05.gif)
